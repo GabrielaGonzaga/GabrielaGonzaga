@@ -1,4 +1,4 @@
-# Olá eu sou a Gabriela 🖥 
+# Olá, eu sou a Gabriela 🖥 
 
 Atualmente cursando Desenvolvimento de sistemas na escola SENAI :D
 #
