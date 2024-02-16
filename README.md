@@ -1,6 +1,4 @@
 # Olá, eu sou a Gabriela 🖥 
-
-Atualmente cursando Análise e Desenvolvimento de sistemas na faculdade SENAI :D
 #
 Algumas das Tecnologias que possuo conhecimento:
 
