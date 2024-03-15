@@ -1,21 +1,26 @@
-# Olá, eu sou a Gabriela 🖥 
+# Saudações, sou Gabriela! 🌟
 
-Algumas das tecnologias que possuo conhecimento:
+## Sobre mim
 
-![Image HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Image CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Image Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Image TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Image Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Image MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Image JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Image React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Image .NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Image SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+Saudações a todos, meu nome é Gabriela. Sou graduada em Análise e Desenvolvimento de Sistemas pela FAULCADE SENAI, buscando constantemente aprimorar minhas habilidades e conhecimentos no vasto campo da tecnologia.
 
-# Sobre mim:
+## Tecnologias
 
-![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielaGonzaga\&rank_icon=github\&bg_color=30,0d1117,0d1117\&title_color=fff\&text_color=fff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaGonzaga\&layout=compact\&bg_color=30,0d1117,0d1117\&title_color=fff\&text_color=fff)
+<img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+<img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+<img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+<img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img align="center" alt=".NET" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
+<img align="center" alt="SQL Server" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
 
-904e95
+## Estatísticas do GitHub
+
+[![Estatísticas do GitHub de Gabriela](https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=radical)](https://github.com/seu_usuario)
+
+## Linguagens Mais Utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu_usuario&layout=compact&theme=radical)](https://github.com/seu_usuario)
