@@ -15,7 +15,7 @@ Algumas das tecnologias que possuo conhecimento:
 
 # Sobre mim:
 
-![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielaGonzaga\&rank_icon=github\&bg_color=80,0d1117,904e95\&title_color=fff\&text_color=fff)
+![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielaGonzaga\&rank_icon=github\&bg_color=80,904e95,0d1117\&title_color=fff\&text_color=fff)
 
 
 
