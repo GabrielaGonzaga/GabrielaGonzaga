@@ -16,20 +16,9 @@ Algumas das tecnologias que possuo conhecimento:
 # Sobre mim:
 
 ![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielaGonzaga\&rank_icon=github\&bg_color=30,0d1117,904e95\&title_color=fff\&text_color=fff)
-![Gabriela's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabrielagonzaga\&bg_color=30,0d1117,904e95\&title_color=fff\&text_color=fff)
+
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaGonzaga\&hide_progress=true\&bg_color=30,0d1117,904e95\&title_color=fff\&text_color=fff)
 
-Customize Border Color
-Gradient
-Customizing stats card
-WakaTime card
-Top languages
-Hidden progress bars
 
-Shows Github logo instead rank level
-
-#0d1117
-#6113fd
-e96443
-904e95
