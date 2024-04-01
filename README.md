@@ -13,5 +13,3 @@ minhas habilidades com programação :)
 ![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielaGonzaga\&rank_icon=github\&bg_color=30,000000,0d1117\&title_color=fff\&text_color=fff)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaGonzaga\&layout=compact\&bg_color=30,0d1117,000000\&title_color=fff\&text_color=fff)
 
-
-<script src="carousel.js"></script>
