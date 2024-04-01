@@ -14,24 +14,4 @@ minhas habilidades com programação :)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaGonzaga\&layout=compact\&bg_color=30,0d1117,000000\&title_color=fff\&text_color=fff)
 
 
-<script>
-let index = 0;
-const technologies = document.querySelectorAll('.tech');
-
-function showNextTechnology() {
-  technologies.forEach((tech, i) => {
-    if (i === index % technologies.length) {
-      tech.style.display = 'block';
-    } else {
-      tech.style.display = 'none';
-    }
-  });
-  index++;
-}
-
-// Show the first technology immediately
-showNextTechnology();
-
-// Change the displayed technology every 3 seconds
-setInterval(showNextTechnology, 3000);
-</script>
+<script src="carousel.js"></script>
