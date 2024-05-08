@@ -1,7 +1,7 @@
 # Olá, sou Gabriela! 💻
 
 ## Sobre mim
-Sou formada em #Análise e Desenvolvimento de Sistemas# pela faculdade #SENAI# e atualmente estou cursando Engenharia de Software na faculdade #USP#. Sempre buscando melhorar minhas habilidades em programação para meu crescimento profissional e interpessoal :)
+Sou formada em **Análise e Desenvolvimento de Sistemas** pela faculdade **SENAI** e atualmente estou cursando Engenharia de Software na faculdade **USP**. Sempre buscando melhorar minhas habilidades em programação para meu crescimento profissional e interpessoal :)
 
 ## Tecnologias
 <div id="carousel">
