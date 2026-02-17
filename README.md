@@ -1,9 +1,9 @@
-# Hi there, I’m Gabriela. 💻
+# Hi there, I’m Gabriela. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 ## About me
 I hold an MBA in **Software Engineering** from the University of São Paulo (USP) and a degree in **Systems Analysis and Development**.
   - I’m passionate about technology, continuous learning, and building efficient, well-structured solutions.
-  - I’m always looking to grow as a developer and contribute to meaningful projects. :)
+  - I’m always looking to grow as a developer and contribute to meaningful projects :)
 
 ## Technologies
 <div id="carousel">
