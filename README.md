@@ -2,7 +2,9 @@
 
 ## About me
 I hold an MBA in **Software Engineering** from the University of São Paulo (USP) and a degree in **Systems Analysis and Development**.
+
 > I’m passionate about technology, continuous learning, and building efficient, well-structured solutions.
+
 > I’m always looking to grow as a developer and contribute to meaningful projects. :)
 
 ## Technologies
